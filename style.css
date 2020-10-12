@@ -7,21 +7,36 @@
             width: 1024px;
         }
         header {
+            color: blanchedalmond;
             text-align: center;
             background-image: url("image/ip_img.jpg");
             width: 1224px;
             height: 660px;
+            padding-top: 300px;
+            padding-left: 240px;
+            padding-right: 240px;
         }
+
+
+        h2{
+            text-align: center;
+            color: blanchedalmond;
+        }
+        p{
+            color: blanchedalmond;
+            text-align: center;
+        }
+    
         nav {
             text-align: center;
             background-image: url("image/ip3_image.jpg");
-            width: 400px;
+            width: 1224px;
             height: 250px;
         }
         main{
             text-align: center;
             background-image: url("image/ip3\ last\ img.jpg");
-            width: 300px;
+            width: 400px;
             height: 250px;
         }
         footer{
