@@ -10,8 +10,7 @@
             color: blanchedalmond;
             text-align: center;
             background-image: url("image/ip_img.jpg");
-            width: 1224px;
-            height: 660px;
+            background-size: cover;
             padding-top: 300px;
             padding-left: 240px;
             padding-right: 240px;
@@ -35,8 +34,7 @@
         nav {
             text-align: center;
             background-image: url("image/ip3_image.jpg");
-            width: 1224px;
-            height: 600px;
+            background-size: cover;
             padding-top: 300px;
             padding-left: 240px;
             padding-right: 240px;
@@ -99,7 +97,7 @@ input.error {
 .white{
     height: 300px;
     width: 366px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: cornsilk;
     display: none;
 }
 .img-fluid{
@@ -115,8 +113,8 @@ input.error {
 .portimg .porttext {
     display: none;
     opacity: 1;
-    background-color:rgba(255, 255, 255, 0.8);
-    background-color:rgba(255, 255, 255, 0.6);
+    background-color:#ffffffda;
+    background-color:#ffffffd8;
     width: auto;
     position: absolute;
     bottom: 0;
