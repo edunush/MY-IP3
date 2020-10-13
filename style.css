@@ -26,12 +26,18 @@
             color: blanchedalmond;
             text-align: center;
         }
-    
+    .classicmid {
+            padding-left: 340px;
+            padding-right: 240px;
+    }
         nav {
             text-align: center;
             background-image: url("image/ip3_image.jpg");
             width: 1224px;
-            height: 250px;
+            height: 5000px
+            padding-top: 300px;
+            padding-left: 240px;
+            padding-right: 240px;
         }
         main{
             text-align: center;
