@@ -7,7 +7,6 @@
             width: 1024px;
         }
         header {
-            image: ("https://raw.githubusercontent.com/jonnygovish/IP3/29ae761f301cddaf1dbacc9cea23f0a0acceaa91/assets/logo/logo.png") ;
             color: blanchedalmond;
             text-align: center;
             background-image: url("image/ip_img.jpg");
@@ -36,7 +35,7 @@
             text-align: center;
             background-image: url("image/ip3_image.jpg");
             width: 1224px;
-            height: 5000px
+            height: 600px;
             padding-top: 300px;
             padding-left: 240px;
             padding-right: 240px;
@@ -53,8 +52,9 @@ figcaption{
     padding-bottom: 50px;
 }
 .contacts {
-    background-image: url("../images/backgrounds/c_image.jpg");
+    background-image: url("image/ip3\ last\ img.jpg");
     background-size: cover;
+
 }
 .contacts h1 {
     position: relative;
